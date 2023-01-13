@@ -163,7 +163,7 @@ elif choice ==4:
 elif choice == 5:
 
 
-    adjective = choose_random_word('/Users/Uveysq/PycharmProjects/pythonProject/adjectives.txt')
+    adjective = choose_random_word('adjectives.txt')
 
     character1 = random.choice(characters1)
     character2 = random.choice(characters2)
